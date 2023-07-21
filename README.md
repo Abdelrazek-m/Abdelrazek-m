@@ -1,6 +1,6 @@
-![MasterHead](https://miro.medium.com/max/3118/1*dgSHu7PcxlpGYuu7RHt-nQ.gif)
+
 <h1 align="center">Hi 👋, I'm Abdelrazek Mahmoud</h1>
-<h3 align="center">Data analysis, Flutter Developer, Graphic Designer</h3>
+<h3 align="center">Flutter Developer, Graphic Designer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrazek-m" alt="abdelrazek-m" /></a> </p>
 
