@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdelrazek Mahmoud</h1>
-<h3 align="center">Flutter Developer, Graphic Designer</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrazek-m" alt="abdelrazek-m" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdelrazek-m](https://github.com/Abdelrazek-m)
 
-- 💬 Ask me about ****Mobile Development 📲, Compatitiva Programming 👨‍💻🥇, Data Analysis 📊and Graphic Design 📸****
+- 💬 Ask me about ****Mobile Development 📲, Compatitiva Programming 👨‍💻🥇****
 
 - 📫 How to reach me **Aalrazek02@gmail.com**
 
